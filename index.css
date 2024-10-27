@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.questions-box {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+    background-color: #0d1321;
+}
